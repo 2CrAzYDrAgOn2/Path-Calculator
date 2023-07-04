@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление_пути.Form1.resources
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление_пути.Properties.Resources.resources
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\bin\Debug\Вычисление пути.exe.config
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\bin\Debug\Вычисление пути.exe
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\bin\Debug\Вычисление пути.pdb
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.exe
+C:\Users\User\source\repos\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.pdb
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\bin\Debug\Вычисление пути.exe.config
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\bin\Debug\Вычисление пути.exe
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\bin\Debug\Вычисление пути.pdb
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.AssemblyReference.cache
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.SuggestedBindingRedirects.cache
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление_пути.Form1.resources
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление_пути.Properties.Resources.resources
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.GenerateResource.cache
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.CoreCompileInputs.cache
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.exe
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.pdb
+C:\Users\117-10\Desktop\Вычисление пути\Вычисление пути\obj\Debug\Вычисление пути.csproj.ResolveComReference.cache
